@@ -1,5 +1,28 @@
 [
   {
+    "run_key": "run-23835062852",
+    "run_id": "23835062852",
+    "run_number": "51",
+    "run_attempt": "1",
+    "workflow": "TIAB Shopify Sync",
+    "repository": "Adrenalix/tiab-shopify-sync",
+    "run_url": "https://github.com/Adrenalix/tiab-shopify-sync/actions/runs/23835062852",
+    "sha": "e4ac3088dfeb27ac882af77b8817b90629fe21cb",
+    "ref_name": "main",
+    "started_at": "2026-04-01T06:23:46+00:00",
+    "ended_at": "2026-04-01T07:54:36+00:00",
+    "duration_seconds": 5450,
+    "limit": null,
+    "use_test_api": false,
+    "skip_images": false,
+    "processed": 1421,
+    "created": 1420,
+    "updated": 1,
+    "errors": 0,
+    "status": "success",
+    "fatal_error": ""
+  },
+  {
     "run_key": "run-23746206882",
     "run_id": "23746206882",
     "run_number": "39",
