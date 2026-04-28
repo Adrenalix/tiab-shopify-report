@@ -1,0 +1,38 @@
+{
+  "summary": {
+    "run_key": "run-25039455818",
+    "run_id": "25039455818",
+    "run_number": "53",
+    "run_attempt": "1",
+    "workflow": "TIAB Shopify Sync",
+    "repository": "FJonsson-DQ/API-shopify-sync",
+    "run_url": "https://github.com/FJonsson-DQ/API-shopify-sync/actions/runs/25039455818",
+    "sha": "b0131bd9d51ce99d2cbf8d35560d63e0b9b6654e",
+    "ref_name": "main",
+    "started_at": "2026-04-28T07:19:46+00:00",
+    "ended_at": "2026-04-28T07:20:17+00:00",
+    "duration_seconds": 31,
+    "limit": 1,
+    "use_test_api": false,
+    "skip_images": false,
+    "archive_removed": true,
+    "processed": 1,
+    "created": 0,
+    "updated": 1,
+    "archived": 0,
+    "errors": 0,
+    "status": "success",
+    "fatal_error": ""
+  },
+  "records": [
+    {
+      "timestamp": "2026-04-28T07:20:17+00:00",
+      "sku": "1012-14105",
+      "title": " KULKOPPLING UNI 1700 KG",
+      "action": "updated",
+      "shopify_id": "10599343980877",
+      "status": "ok",
+      "error": ""
+    }
+  ]
+}
